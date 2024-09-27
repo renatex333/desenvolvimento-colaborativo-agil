@@ -1,0 +1,61 @@
+container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+buttonContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px;
+    margin-top: 100px;
+}
+button{
+    font-size: medium;
+}
+title{
+    font-size:1.2rem ;
+    font-weight: bold;
+    margin: 8px;
+    
+}
+
+inpuTextContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 40px;
+}
+
+text{
+    padding: 1rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+    background-color: lightgrey;
+    border-radius: 0.2rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+Paragraph{ 
+
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+drop{
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+date{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+

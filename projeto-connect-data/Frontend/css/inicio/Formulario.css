@@ -1,0 +1,25 @@
+container {
+    flex-grow: 1;
+    padding: 5px;
+}
+
+input {
+    margin: 5px;
+}
+
+buttonContainer {
+    flex-direction: row;
+}
+buttons{
+    margin:0 5px 5px 5px;
+}
+
+button {
+    flex-grow: 1;
+    margin: 5px;
+}
+
+title{
+    left:60px;
+    font-size: 18px;
+}

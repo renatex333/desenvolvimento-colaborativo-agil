@@ -1,0 +1,19 @@
+container{
+    flex-grow: 1;
+}
+text{
+    font-size: 15px;
+    margin: 7px;
+    font-style: italic;
+    font-weight: lighter;
+}
+button {
+    flex-grow: 0.5;
+    margin: 45px;
+    
+}
+buttonContainer {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+}

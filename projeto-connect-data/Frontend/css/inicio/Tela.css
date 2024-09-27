@@ -1,0 +1,17 @@
+container {
+    flex-grow: 1;
+}
+itemContainer {
+    padding: 5px;
+}
+
+item {
+    flex-direction: row;
+    align-items: center;
+}
+
+photoContainer {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
