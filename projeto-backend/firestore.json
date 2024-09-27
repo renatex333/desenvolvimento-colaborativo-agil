@@ -1,12 +1,12 @@
 {
-  "type": "service_account",
-  "project_id": "aula-12-desagil",
-  "private_key_id": "7044b2475f26b1293a550e7d8482a5fdd24c5360",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUvEG61WQtDDxY\nQSHub2MdVzHUeFC77x5l3/nxMUMf2tXrzqjjz/Khy1bHNed+EgWx3jkLfVWO46cE\nNiI3ZV3w5FcfEPLBarVTz16I+VNZ4XoVwCTK0Dkbzi/IfmjeFYtwgCmPmTGk+2Jg\n0KtCARsNNqAwMyHSWQVnznZdNP7ix4Z4Ikz+DSe4dPxs7rzZYhTCe28GtpWfJHn7\n1hZyR11zGmbrYRw7d978sTJH2mAfW7JiM2MOTiBmwqQuOmuhr30Al71gPsQs5YYk\nmgeaA2DWXuz6BPKBBPA3cDtk6JZNJvVh4St+bndhz6SPJc2SHyYlmFJ9077vO7R4\nqwX2SVgvAgMBAAECggEADceH5mcuDvDs87Z8USpr3Bmqw51rdVDewjCIywOq2mRd\nWOHQ9LiiebJnE449SWA3eDbxsPnUUeYTCmXLP5VUSWcw8XUylC6qQhx7fhnQOVEu\njDwe5fgoytFHLRBrEH+KwaW7i26b1Zjm3WiGv0a9DtUL+TNGrI5RmFC6P/1PyTaP\nFrjDpOIgW6KsWguuKjgs4Wi/hpgPX/Z60OV6fU78zIMFqGz/aQ60aHSCKSJcadoh\npjfYVMZmo5nCNZVAz35d/4hBDDQrnCSSDN08ctoWqbPitxNbqThw5lOM6EBGRFUk\nELj1bvVGUN4p/nDEm3HoN1Zlv4O0Zh61alod+G0XOQKBgQDqe8xOP0Gsq7NrduU6\nDV0kYVdRwK5uLBOTXIvX+wJSOSwsWo1v0WZBoqlTiYUWfc3hSRF7gKTMx+tp1Wl7\n/2wyd2Epvt1hkC4r66a8oYxH7FViL2Sy6EB3378pFK0bmCxzef9HlDPK4MFN4NBI\ndgjKIrJpMOddTg4G1wvnmq5qHQKBgQDoQZOLs8XMHaPWB1fWBo5e8iPBpdK5goNg\nHdrlObqDkUPLCFB0/VRn6SR6ecs2rpuJUAqnSjHlMxwb7pbG8UDZaFTBUJ4BE/23\n2hJFejY8sDsWtE7pQ3z//D2CvHiZPt/T/abH4Kh5mNkYtcQeZTUyQ8AnirW/xzml\nm2C+E4kZuwKBgBmUCZRbiCF61WaaoKS1gnyOdcUAPMbd3gDMLqEPy5AGlo/8DMOu\n1vW/9bKcJL1wWb4Ch3qubMu93ys7UXdqRHY42YuBO4sB/FdkLFsVUEUkPagpPVXa\nyfWJncOwcrW44thx7Wv0ebXe0JdbN70/yvOp10ZsREDEW/lZCf5ovC/tAoGAUkHf\naswZ0sfwnb3uCvw5ckEaDtyW/GLP+ru4KhU/DJfnRcJFFJogSckVxVbbdRt0NLan\nf0ZU05M9clsXBZCuYhGEaw8NVt5orrPKYtb83JOh6dGkXRMs81C3zFTJ9aSCC4e7\niPD1WlObGBhQRF+d7pZ2OMr0wd5ieVfFdKxgkz8CgYEA23omT6hl81nDiEy/+caz\nJ3zNHbTikWLPshz49WZx9kOZo432SjY7BoL/40fa2RtqgeJ8s53P/+PSuRoKxwcN\nLIyE26BqLo5qg/Gm1Z62o3JCdLpOorG33RspXeZ+tir+TixSVAJo0Y66F1ywVlhZ\n7qE6Du8sdsM/GKQuJh+YwsA=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-y4rpy@aula-12-desagil.iam.gserviceaccount.com",
-  "client_id": "112451633346826972077",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-y4rpy%40aula-12-desagil.iam.gserviceaccount.com"
+  "type": "",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
